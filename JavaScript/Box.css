@@ -1,0 +1,17 @@
+div{
+	border:1px solid black;
+	padding:20px;
+	width:25%;
+	
+}
+#Main{
+position:relative;
+left:25%;
+padding:50px;
+ margin:0 auto;
+ width:50%;
+ height:25%
+}
+.container{
+	border:0px;
+}
